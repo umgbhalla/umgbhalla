@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 <!--
 **yuk7/yuk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +18,10 @@ Here are some ideas to get you started:
 I'm umgbhalla.
 
 - 🔭 I’m currently working on Web frontend/backend programs.
-- 🌱 I’m currently learning information technology from IIITBHOPAL
+- 🌱 I’m currently learning information technology at IIIT BHOPAL
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
-- 📫 How to reach me: [e-mail](mailto:umg.bhalla88@gmail.com) / [Telegram](https://t.me/umgbhalla)
+- 📫 How to reach me: [e-mail](mailto:umg.bhalla88@gmail.com) / [Telegram](https://t.me/umgbhalla) / [Twitter](https://twitter.com/umgbhalla)
 - ⚡ Fun fact: I'm a full-time procrastinator, programming for fun.
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
