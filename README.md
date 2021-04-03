@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm yuk7.
+I'm umgbhalla.
 
 - 🔭 I’m currently working on Web frontend/backend programs.
 - 🌱 I’m currently learning information technology from IIITBHOPAL
