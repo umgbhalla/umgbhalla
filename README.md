@@ -32,6 +32,9 @@ I'm umgbhalla.
 ![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7) -->
+## Current linux setup
+![image](https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=umgbhalla&count_private=true&show_icons=true&theme=nightowl" />
