@@ -25,9 +25,10 @@ I'm umgbhalla.
 &nbsp;
 &nbsp;
 <br />
+<br/>
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 
-<!-- ![GitHub User's stars](https://img.shields.io/github/stars/yuk7?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars) -->
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
