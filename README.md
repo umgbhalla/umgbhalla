@@ -33,7 +33,7 @@ I'm umgbhalla.
 
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7) -->
 ## Current linux setup
-<img src="https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png"  height='300'/>
+<img src="https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png"  width='660.271'/>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
