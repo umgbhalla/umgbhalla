@@ -38,7 +38,7 @@ I'm umgbhalla.
   
 <img align="left"  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=24292e&point=24292e&area=true&hide_border=true" height='170' />
 
-<br>
+<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=umgbhalla&count_private=true&show_icons=true&theme=nightowl"  height='170'/>
