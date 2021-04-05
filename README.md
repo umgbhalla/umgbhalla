@@ -36,7 +36,7 @@ I'm umgbhalla.
 
 
   
-<img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=24292e&point=24292e&area=true&hide_border=true" width='702.21' />
+<img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=0f0f0f&color=e4e2e2&line=24292e&point=24292e&area=true&hide_border=true" width='702.21' />
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
