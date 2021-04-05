@@ -31,11 +31,11 @@ I'm umgbhalla.
 ![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7) -->
-## Current linux setup
+### Current linux setup
 <img src="https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png"  height='395'/>
 
 
-  
+### Stats:
 <img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
 
 
