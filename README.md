@@ -26,8 +26,7 @@ I'm umgbhalla.
 
 &nbsp;
 &nbsp;
-<br/>
-<br>
+
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 
@@ -47,6 +46,7 @@ I'm umgbhalla.
 <br>
 <details open>
 <summary>graph unga bunga</summary>
-<br>
+&nbsp;
+&nbsp;
 <img src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=24292e&point=24292e&area=true&hide_border=true" height='170' />
 </details>
