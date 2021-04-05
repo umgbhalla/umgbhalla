@@ -32,7 +32,7 @@ I'm umgbhalla.
 
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7) -->
 ### Current linux setup
-<img src="https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png"  height='395'/>
+<img src="https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png"  width='702.271'/>
 
 
 ### Stats
@@ -40,10 +40,10 @@ I'm umgbhalla.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=umgbhalla&count_private=true&show_icons=true&theme=nightowl&hide_border=true"  height='170'/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=umgbhalla&count_private=true&show_icons=true&theme=nightowl&hide_border=true"  width='432'/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&exclude_repo=dotfiles&theme=nightowl&hide_border=true" height='170' />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&exclude_repo=dotfiles&theme=nightowl&hide_border=true" width='268' />
 </a>
 
