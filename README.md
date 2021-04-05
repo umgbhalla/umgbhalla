@@ -10,7 +10,7 @@ I'm umgbhalla.
 - ⚡ Fun fact: I'm a full-time procrastinator, programming for fun.
   <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
@@ -35,7 +35,7 @@ I'm umgbhalla.
 <img src="https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png"  height='395'/>
 
 
-### Stats:
+### Stats
 <img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
 
 
