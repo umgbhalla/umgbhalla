@@ -7,7 +7,7 @@ I'm umgbhalla.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 - 📫 How to reach me: [e-mail](mailto:umg.bhalla88@gmail.com) / [Telegram](https://t.me/umgbhalla) / [Twitter](https://twitter.com/umgbhalla)
-- ⚡ Fun fact: I'm a full-time procrastinator, programming for fun.
+- ⚡ Fun fact: I dont have a life.
   <br />
 
 ### Languages and Tools
