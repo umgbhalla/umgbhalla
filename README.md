@@ -34,5 +34,5 @@ I'm umgbhalla.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&exclude_repo=dotfiles&theme=nightowl&hide_border=true" height='170' />
 </a>
-### Current linux setup
+### Stats
 <img src="https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png"  width='702.271'/>
