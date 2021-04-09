@@ -14,15 +14,21 @@ I'm umgbhalla.
 
 <code>[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)</code>
 
-[<img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" />](https://www.wikiwand.com/en/JavaScript)
-[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />](https://www.wikiwand.com/en/C%2B%2B)
+<code>[<img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" />](https://www.wikiwand.com/en/JavaScript)</code>
+
+<code>[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />](https://www.wikiwand.com/en/C%2B%2B)</code>
+
 
 <!-- [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/) -->
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png" />](https://github.com/alacritty/alacritty)
-[<img align="left" alt="Zsh" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.wikiwand.com/en/Z_shell)
-[<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/640px-Vimlogo.svg.png" />](https://www.vim.org/)
-[<img align="left" alt="Pop!_OS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/640px-Pop_OS-Logo-nobg.svg.png" />](https://pop.system76.com/)
+<code>[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png" />](https://github.com/alacritty/alacritty)</code>
+
+<code>[<img align="left" alt="Zsh" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.wikiwand.com/en/Z_shell)</code>
+
+<code>[<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/640px-Vimlogo.svg.png" />](https://www.vim.org/)</code>
+
+<code>[<img align="left" alt="Pop!_OS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/640px-Pop_OS-Logo-nobg.svg.png" />](https://pop.system76.com/)</code>
+
 
 &nbsp;
 &nbsp;
