@@ -24,6 +24,8 @@ I'm umgbhalla.
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/umgbhalla?label=GH%20sponsors&style=flat)](https://github.com/sponsors/umgbhalla) -->
+&nbsp;
+&nbsp;
 ### Stats
 <img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
 
@@ -34,5 +36,7 @@ I'm umgbhalla.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&exclude_repo=dotfiles&theme=nightowl&hide_border=true" height='170' />
 </a>
-
+&nbsp;
+&nbsp;
+### Current GNU/Linux Setup
 <img src="https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png"  width='702.271'/>
