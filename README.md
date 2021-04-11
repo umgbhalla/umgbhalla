@@ -41,4 +41,4 @@ I'm umgbhalla.
    
    
 ### Current GNU/Linux Setup
-<img src="https://cdn.discordapp.com/attachments/635625917623828520/826111760149905428/unknown.png"  width='702.271'/>
+<img src="https://cdn.discordapp.com/attachments/635625917623828520/830710818072690698/unknown.png"  width='702.271'/>
