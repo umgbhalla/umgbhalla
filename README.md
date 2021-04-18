@@ -41,4 +41,7 @@ I'm umgbhalla.
    
    
 ### Current GNU/Linux Setup
-<img src="https://raw.githubusercontent.com/umgbhalla/dotfiles/main/Screenshot.png"  width='702.271'/>
+<img src="https://raw.githubusercontent.com/umgbhalla/dotfiles/main/Screenshot.png"  width='702.271'/>  
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
