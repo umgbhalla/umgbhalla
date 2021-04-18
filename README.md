@@ -34,7 +34,8 @@ I'm umgbhalla.
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&exclude_repo=dotfiles&theme=nightowl&hide_border=true" height='170' />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&theme=nightowl&hide_border=true" height='170' />
+ <!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&exclude_repo=dotfiles&theme=nightowl&hide_border=true" height='170' /> -->
 </a>
 &nbsp;
   
