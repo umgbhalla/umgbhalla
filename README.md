@@ -44,4 +44,4 @@ I'm umgbhalla.
 <img src="https://raw.githubusercontent.com/umgbhalla/dotfiles/main/Screenshot.png"  width='702.271'/>  
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true"  width='702.271' /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true"  width='702.271' /></p>
