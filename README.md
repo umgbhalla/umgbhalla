@@ -42,6 +42,8 @@ I'm umgbhalla.
    
    
 ### Current GNU/Linux Setup
+
+<img src="https://raw.githubusercontent.com/umgbhalla/dotfiles/main/Screenshot_1.png"  width='702.271'/>  
 <img src="https://raw.githubusercontent.com/umgbhalla/dotfiles/main/Screenshot.png"  width='702.271'/>  
 
 
