@@ -43,9 +43,9 @@ I'm umgbhalla.
    
 ### Current GNU/Linux Setup
 
-<img src="https://raw.githubusercontent.com/umgbhalla/dotfiles/main/Screenshot_1.png"  width='702.271'/>  
+<img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/output.gif"  width='702.271'/>  
 
-<img src="https://raw.githubusercontent.com/umgbhalla/dotfiles/main/rice.gif"  width='702.271'/>  
+<img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/rice.gif"  width='702.271'/>  
 
 
 <p align="left"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true"  width='702.271' /></p>
