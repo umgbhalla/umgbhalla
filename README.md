@@ -48,4 +48,4 @@ I'm umgbhalla.
 <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/rice.gif"  width='702.271'/>  
 
 
-<p align="left"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true"  width='702.271' /></p>
+<p align="left"><img src="./media/repository-footer-separator.svg"  width='702.271' /></p>
