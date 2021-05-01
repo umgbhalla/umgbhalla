@@ -19,8 +19,8 @@ I'm umgbhalla.
 <code><a href="https://www.wikiwand.com/en/Z_shell"><img  alt="Zsh" height="26px" src="./media/zsh.svg" /></a></code>
 <code><a href="https://www.vim.org/"><img alt="Vim" height="26px" src="./media/vim.png" /></a></code>
 <code><a href="https://pop.system76.com/"><img alt="Pop!_OS" height="26px" src="./media/pop.png" /></a></code>
-<code><a href="/" class="navbar-brand">
-				<svg xmlns="http://www.w3.org/2000/svg" style=" height="26px" viewBox="0 0 742 214">
+<code>
+<svg xmlns="http://www.w3.org/2000/svg" style=" height="26px" viewBox="0 0 742 214">
   <defs>
     <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="a">
       <stop stop-color="#16B0ED" stop-opacity=".8" offset="0%"></stop>
@@ -46,8 +46,7 @@ I'm umgbhalla.
     </g>
   </g>
 </svg>
-
-      </a></code>
+</code>
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
