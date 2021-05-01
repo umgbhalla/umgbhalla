@@ -19,9 +19,7 @@ I'm umgbhalla.
 <code><a href="https://www.wikiwand.com/en/Z_shell"><img  alt="Zsh" height="26px" src="./media/zsh.svg" /></a></code>
 <code><a href="https://www.vim.org/"><img alt="Vim" height="26px" src="./media/vim.png" /></a></code>
 <code><a href="https://pop.system76.com/"><img alt="Pop!_OS" height="26px" src="./media/pop.png" /></a></code>
-<code>
 <code><a href="https://neovim.io/"><img alt="NeoVim" height="26px" src="./media/Neovim-logo.png" /></a></code>
-<code>
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
