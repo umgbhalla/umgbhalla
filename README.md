@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="./media/wave.gif" width="30px">
 
 I'm umgbhalla.
 
@@ -12,7 +12,7 @@ I'm umgbhalla.
 
 ### Languages and Tools
 
-<code><a href="https://code.visualstudio.com"> <img  alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a></code>
+<code><a href="https://code.visualstudio.com"> <img  alt="Visual Studio Code" height="26px" src="./media/visual-studio-code.png"/></a></code>
 <code><a href="https://www.wikiwand.com/en/JavaScript"><img  alt="JS" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" /></a></code>
 <code><a href="https://www.wikiwand.com/en/C%2B%2B"><img  alt="C++" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a></code>
 <code><a href="https://github.com/alacritty/alacritty"><img  alt="Alacritty" height="26px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png" /></a></code>
