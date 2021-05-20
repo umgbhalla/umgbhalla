@@ -26,7 +26,9 @@ I'm umgbhalla.
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/umgbhalla?label=GH%20sponsors&style=flat)](https://github.com/sponsors/umgbhalla) -->
 &nbsp;
 &nbsp;
-### Stats
+
+<details>
+  <summary>📊 <b><i>GitHub Stats</i></b></summary>
 <img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -37,6 +39,7 @@ I'm umgbhalla.
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&theme=nightowl&hide_border=true" height='170' />
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&exclude_repo=dotfiles&theme=nightowl&hide_border=true" height='170' /> -->
 </a>
+</details>
 &nbsp;
 
 ### Current GNU/Linux Setup
