@@ -9,6 +9,11 @@ I'm umgbhalla.
 - 📫 How to reach me: [e-mail](mailto:umg.bhalla88@gmail.com) / [Telegram](https://t.me/umgbhalla) / [Twitter](https://twitter.com/umgbhalla)
 - ⚡ Fun fact: I dont have a life.
 <br />
+
+![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
+<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/umgbhalla?label=GH%20sponsors&style=flat)](https://github.com/sponsors/umgbhalla) -->
+
 <details>
   <summary>⚙️ <b><i>Languages and Tools</i></b></summary>
 <code><a href="https://endeavouros.com/"><img alt="EndeavourOS" height="26px" src="https://i1.wp.com/endeavouros.com/wp-content/uploads/2021/03/cropped-cropped-Endeavour-horizontal-black.png" /></a></code>
@@ -20,10 +25,6 @@ I'm umgbhalla.
 <code><a href="https://code.visualstudio.com"> <img  alt="Visual Studio Code" height="26px" src="./media/visual-studio-code.png"/></a></code>
 <code><a href="https://pop.system76.com/"><img alt="Pop!_OS" height="26px" src="./media/pop.png" /></a></code>
 </details>
-
-![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
-<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/umgbhalla?label=GH%20sponsors&style=flat)](https://github.com/sponsors/umgbhalla) -->
 
 <details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary>
