@@ -12,6 +12,7 @@ I'm umgbhalla.
 
 ### Languages and Tools
 
+<code><a href="https://endeavouros.com/"><img alt="EndeavourOS" height="26px" src="https://i1.wp.com/endeavouros.com/wp-content/uploads/2021/03/cropped-cropped-Endeavour-horizontal-black.png" /></a></code>
 <code><a href="https://www.wikiwand.com/en/JavaScript"><img  alt="JS" height="26px" src="./media/js.png" /></a></code>
 <code><a href="https://www.wikiwand.com/en/C%2B%2B"><img  alt="C++" height="26px" src="./media/cpp.svg" /></a></code>
 <code><a href="https://github.com/alacritty/alacritty"><img  alt="Alacritty" height="26px" src="./media/alacritty-term+scanlines.png" /></a></code>
