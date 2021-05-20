@@ -3,7 +3,7 @@
 I'm umgbhalla.
 
 - 🔭 I’m currently working on Web frontend/backend programs.
-- 🌱 I’m currently learning information technology at IIIT BHOPAL
+- 🌱 Learning information technology at IIIT BHOPAL
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 - 📫 How to reach me: [e-mail](mailto:umg.bhalla88@gmail.com) / [Telegram](https://t.me/umgbhalla) / [Twitter](https://twitter.com/umgbhalla)
