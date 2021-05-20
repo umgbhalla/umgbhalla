@@ -13,10 +13,10 @@ I'm umgbhalla.
 ### Languages and Tools
 
 <code><a href="https://endeavouros.com/"><img alt="EndeavourOS" height="26px" src="https://i1.wp.com/endeavouros.com/wp-content/uploads/2021/03/cropped-cropped-Endeavour-horizontal-black.png" /></a></code>
+<code><a href="https://neovim.io/"><img alt="NeoVim" height="26px" src="./media/Neovim-logo.png" /></a></code>
 <code><a href="https://www.wikiwand.com/en/JavaScript"><img  alt="JS" height="26px" src="./media/js.png" /></a></code>
 <code><a href="https://www.wikiwand.com/en/C%2B%2B"><img  alt="C++" height="26px" src="./media/cpp.svg" /></a></code>
 <code><a href="https://github.com/alacritty/alacritty"><img  alt="Alacritty" height="26px" src="./media/alacritty-term+scanlines.png" /></a></code>
-<code><a href="https://neovim.io/"><img alt="NeoVim" height="26px" src="./media/Neovim-logo.png" /></a></code>
 <code><a href="https://www.wikiwand.com/en/Z_shell"><img  alt="Zsh" height="26px" src="./media/zsh.svg" /></a></code>
 <code><a href="https://code.visualstudio.com"> <img  alt="Visual Studio Code" height="26px" src="./media/visual-studio-code.png"/></a></code>
 <code><a href="https://pop.system76.com/"><img alt="Pop!_OS" height="26px" src="./media/pop.png" /></a></code>
