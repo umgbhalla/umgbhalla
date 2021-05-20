@@ -45,13 +45,13 @@ I'm umgbhalla.
 
 ### Current GNU/Linux Setup
 <details>
-  <summary><a alt="EndeavourOS" src="https://i0.wp.com/endeavouros.com/wp-content/uploads/2019/08/EndeavourOS-logo.png" height="15px"/></a> <b><i>EndeavourOS</i></b></summary>
+  <summary>🐧 <b><i>EndeavourOS</i></b></summary>
 <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/Screenshot.png"  width='702.271'/>  
 </details>
 <!-- <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/output.gif"  width='702.271'/>   -->
 
 <details>
-  <summary><a alt="Pop!_OS" height="15px" src="./media/pop.png" /></a> <b><i>Pop!_OS</i></b></summary>
+  <summary>🐧 <b><i>Pop!_OS</i></b></summary>
 <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/rice.gif"  width='702.271'/>  
 </details>
 
