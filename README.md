@@ -42,7 +42,7 @@ I'm umgbhalla.
 ### Current GNU/Linux Setup
 <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/Screenshot.png"  width='702.271'/>  
 
-<img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/output.gif"  width='702.271'/>  
+<!-- <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/output.gif"  width='702.271'/>   -->
 
 <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/rice.gif"  width='702.271'/>  
 
