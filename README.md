@@ -39,7 +39,6 @@ I'm umgbhalla.
 </a>
 </details>
 
-### Current GNU/Linux Setup
 <details>
   <summary>🐧 <b><i>EndeavourOS</i></b></summary>
 <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/Screenshot.png"  width='702.271'/>  
