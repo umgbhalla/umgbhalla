@@ -42,7 +42,7 @@ I'm umgbhalla.
 
 <details>
   <summary>🐧 <b><i>EndeavourOS</i></b></summary>
-<img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/Screenshot.png"  width='702.271'/>  
+<img src="https://raw.githubusercontent.com/umgbhalla/dotfiles_meow/main/media/Screenshot_v2.png"  width='702.271'/>  
 </details>
 <!-- <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/output.gif"  width='702.271'/>   -->
 
