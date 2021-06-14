@@ -23,12 +23,12 @@ I'm umgbhalla.
 <code><a href="https://github.com/alacritty/alacritty"><img  alt="Alacritty" height="26px" src="./media/alacritty-term+scanlines.png" /></a></code>
 <code><a href="https://www.wikiwand.com/en/Z_shell"><img  alt="Zsh" height="26px" src="./media/zsh.svg" /></a></code>
 <code><a href="https://code.visualstudio.com"> <img  alt="Visual Studio Code" height="26px" src="./media/visual-studio-code.png"/></a></code>
-<code><a href="https://pop.system76.com/"><img alt="Pop!_OS" height="26px" src="./media/pop.png" /></a></code>
+<!-- <code><a href="https://pop.system76.com/"><img alt="Pop!_OS" height="26px" src="./media/pop.png" /></a></code> -->
 </details>
 
 <details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary>
-<img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img  src="https://github-readme-stats.vercel.app/api?username=umgbhalla&count_private=true&show_icons=true&theme=nightowl&hide_border=true"  height='170'/>
@@ -42,13 +42,13 @@ I'm umgbhalla.
 
 <details>
   <summary>🐧 <b><i>EndeavourOS</i></b></summary>
-<img src="https://raw.githubusercontent.com/umgbhalla/dotfiles_meow/main/media/Screenshot_v2.png"  width='702.271'/>  
+<img align="left" src="https://github.com/umgbhalla/dotfiles-bspwm/blob/main/etc/ss.png"  width='702.271'/>  
 </details>
 <!-- <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/output.gif"  width='702.271'/>   -->
 
-<details>
+<!-- <details>
   <summary>🐧 <b><i>Pop!_OS</i></b></summary>
-<img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/rice.gif"  width='702.271'/>  
-</details>
+<img align="center" src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/rice.gif"  width='702.271'/>  
+</details> -->
 
 <p align="left"><img src="./media/repository-footer-separator.svg"  width='702.271' /></p>
