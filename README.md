@@ -51,4 +51,4 @@ I'm umgbhalla.
 <img align="center" src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/rice.gif"  width='702.271'/>  
 </details> -->
 
-<p align="left"><img src="./media/repository-footer-separator.svg"  width='702.271' /></p>
+<!-- <p align="left"><img src="./media/repository-footer-separator.svg"  width='702.271' /></p> -->
