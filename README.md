@@ -1,18 +1,15 @@
 ### Hi there <img src="./media/wave.gif" width="30px">
 
 I'm umgbhalla.
-
+<details>
+   <summary>🙂 <b><i>I'm umgbhalla.</i></b></summary>
 - 🔭 I’m currently working on Web frontend/backend programs.
 - 🌱 Learning information technology at IIIT BHOPAL
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 - 📫 How to reach me: [e-mail](mailto:umg.bhalla88@gmail.com) / [Telegram](https://t.me/umgbhalla) / [Twitter](https://twitter.com/umgbhalla)
 - ⚡ Fun fact: I dont have a life.
-<br />
-
-![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
-<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/umgbhalla?label=GH%20sponsors&style=flat)](https://github.com/sponsors/umgbhalla) -->
+ </details>
 
 <details>
   <summary>⚙️ <b><i>Languages and Tools</i></b></summary>
@@ -44,6 +41,12 @@ I'm umgbhalla.
   <summary>🐧 <b><i>EndeavourOS</i></b></summary>
 <img align="left" src="https://github.com/umgbhalla/dotfiles-bspwm/blob/main/etc/ss.png"  width='702.271'/>  
 </details>
+
+
+![Counter](https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
+<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/umgbhalla?label=GH%20sponsors&style=flat)](https://github.com/sponsors/umgbhalla) -->
+
 <!-- <img src="https://raw.githubusercontent.com/umgbhalla/sys_dot_files/main/media/output.gif"  width='702.271'/>   -->
 
 <!-- <details>
