@@ -1,15 +1,14 @@
 ### Hi there <img src="./media/wave.gif" width="30px">
 
 I'm umgbhalla.
-<details>
-   <summary>🙂 <b><i>I'm umgbhalla.</i></b></summary>
-- 🔭 I’m currently working on Web frontend/backend programs.
-- 🌱 Learning information technology at IIIT BHOPAL
-- 💬 Ask me about anything!
+
+- 🔭 I’m currently working on nothing
+- 🌱 Learning nothing
+- 💬 Ask me about nothing!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 - 📫 How to reach me: [e-mail](mailto:umg.bhalla88@gmail.com) / [Telegram](https://t.me/umgbhalla) / [Twitter](https://twitter.com/umgbhalla)
-- ⚡ Fun fact: I dont have a life.
- </details>
+- ⚡ Fun fact: nothing
+
 
 <details>
   <summary>⚙️ <b><i>Languages and Tools</i></b></summary>
