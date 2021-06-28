@@ -6,7 +6,7 @@ I'm umgbhalla.
 - 🌱 Learning nothing
 - 💬 Ask me about nothing!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
-- 📫 How to reach me: [e-mail](mailto:umg.bhalla88@gmail.com) / [Telegram](https://t.me/umgbhalla) / [Twitter](https://twitter.com/umgbhalla)
+- 📫 How to reach me: [e-mail](mailto:umg.bhalla88@gmail.com) / [Telegram](https://t.me/umgbhalla) / [Twitter](https://twitter.com/umgbhalla) / [Discord](https://discord.gg/7phunZcr)
 - ⚡ Fun fact: nothing
 
 
