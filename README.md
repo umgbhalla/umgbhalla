@@ -1,7 +1,7 @@
 <!-- ### Hi there <img src="./media/wave.gif" width="30px"> -->
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/67634565/124613852-4ab60880-de91-11eb-8266-6001ce56bf3f.pnghttps://user-images.githubusercontent.com/67634565/124613852-4ab60880-de91-11eb-8266-6001ce56bf3f.png" width='400'></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/67634565/124613852-4ab60880-de91-11eb-8266-6001ce56bf3f.png" width='400'></p>
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
 
