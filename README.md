@@ -1,7 +1,7 @@
 <!-- ### Hi there <img src="./media/wave.gif" width="30px"> -->
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='400'></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/67634565/124613852-4ab60880-de91-11eb-8266-6001ce56bf3f.pnghttps://user-images.githubusercontent.com/67634565/124613852-4ab60880-de91-11eb-8266-6001ce56bf3f.png" width='400'></p>
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
 
@@ -38,7 +38,7 @@
 
 <details>
   <summary>🐧 <b><i>EndeavourOS</i></b></summary>
-<img align="left" src="https://user-images.githubusercontent.com/67634565/123525378-d12e5580-d6ed-11eb-9293-0c9e9cdd2221.png"  width='702.271'/>  
+<img align="left" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png"  width='702.271'/>  
 </details>
 
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/umgbhalla?label=GH%20sponsors&style=flat)](https://github.com/sponsors/umgbhalla) -->
