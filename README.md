@@ -1,9 +1,7 @@
-<!-- ### Hi there <img src="./media/wave.gif" width="30px"> -->
 
-
-<p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p>
-<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='250' ></p>
+<!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
+<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2> 
 
 [![Join the Discord chat](https://img.shields.io/badge/Discord-chat-7289da.svg?&logo=discord)](https://discord.gg/7phunZcr)
 [![My Twitter](https://img.shields.io/badge/twitter-545454.svg?logo=twitter)](https://twitter.com/umgbhalla)  
