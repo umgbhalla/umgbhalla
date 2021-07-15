@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='250' ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='100' ></p>
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2> 
 
@@ -34,10 +34,6 @@
 </a>
 </details> -->
 
-<details>
-  <summary>🐧 <b><i>EndeavourOS rice</i></b></summary>
-<img align="center" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png"  width='702.271'/>  
-</details>
 <!-- 
 ![Metrics](https://metrics.lecoq.io/umgbhalla?template=classic&isocalendar=1&introduction=1&languages=1&habits=1&activity=1&projects=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FKolkata)
  -->
@@ -45,3 +41,11 @@
  
  
 <img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+
+
+
+
+<details>
+  <summary>🐧 <b><i>EndeavourOS rice</i></b></summary>
+<img align="center" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png"  width='702.271'/>  
+</details>
