@@ -21,18 +21,22 @@
 </p>
 
 ```
-╭────────────────────╮  umang@r0nus
-│ %                  │    os ~ EndeavourOS x86_64
-│                    │    sh ~ zsh
-│                    │    up ~ 69 hours, 42 mins
-│                    │   bat ~ 55% [Discharging]
-│                    │   res ~ 1920x1080
-│                    │   cpu ~ AMD Ryzen 5 4500U (6) @ 2.375GHz
-│                    │   mem ~ 4042MiB / 7430MiB (54%)
-│                    │  kern ~ 5.12.12-arch1-1
-│                    │  pkgs ~ 1388 (pacman)
-│                    │  term ~ Alacritty
-╰────────────────────╯  host ~ VivoBook_ASUSLaptop X421IA_M433IA 1.0
+                     ./o.                  umang@r0nus
+                   ./sssso-                  os ~ EndeavourOS x86_64
+                 `:osssssss+-                sh ~ zsh
+               `:+sssssssssso/.              up ~ 2 hours, 33 mins
+             `-/ossssssssssssso/.           bat ~ 53% [Discharging]
+           `-/+sssssssssssssssso+:`         res ~ 1920x1080
+         `-:/+sssssssssssssssssso+/.        cpu ~ AMD Ryzen 5 4500U (6) @ 2.375GHz
+       `.://osssssssssssssssssssso++-       mem ~ 4002MiB / 7430MiB (53%)
+      .://+ssssssssssssssssssssssso++:     kern ~ 5.12.12-arch1-1
+    .:///ossssssssssssssssssssssssso++:    pkgs ~ 1388 (pacman)
+  `:////ssssssssssssssssssssssssssso+++.   term ~ Alacritty
+`-////+ssssssssssssssssssssssssssso++++-   host ~ VivoBook_ASUSLaptop X421IA_M433IA 1.0
+ `..-+oosssssssssssssssssssssssso+++++/`   
+   ./++++++++++++++++++++++++++++++/:.     
+  `:::::::::::::::::::::::::------``       
+
 ```
 
 <!-- <details>
