@@ -20,7 +20,20 @@
 <code><a href="https://code.visualstudio.com"> <img  alt="Visual Studio Code" height="26px" src="./media/visual-studio-code.png"/></a></code>
 </p>
 
-
+```
+╭────────────────────╮  umang@r0nus
+│ %                  │    os ~ EndeavourOS x86_64
+│                    │    sh ~ zsh
+│                    │    up ~ 69 hours, 42 mins
+│                    │   bat ~ 55% [Discharging]
+│                    │   res ~ 1920x1080
+│                    │   cpu ~ AMD Ryzen 5 4500U (6) @ 2.375GHz
+│                    │   mem ~ 4042MiB / 7430MiB (54%)
+│                    │  kern ~ 5.12.12-arch1-1
+│                    │  pkgs ~ 1388 (pacman)
+│                    │  term ~ Alacritty
+╰────────────────────╯  host ~ VivoBook_ASUSLaptop X421IA_M433IA 1.0
+```
 
 <!-- <details>
   <summary>⚙️ <b><i>Languages and Tools</i></b></summary>
