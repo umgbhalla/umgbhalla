@@ -20,7 +20,7 @@
 <!-- <code><a href="https://pop.system76.com/"><img alt="Pop!_OS" height="26px" src="./media/pop.png" /></a></code> -->
 </details>
 
-<details>
+<!-- <details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary>
 <img align="left" src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
 
@@ -30,13 +30,13 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&theme=nightowl&hide_border=true" height='170' />
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgbhalla&exclude_repo=dotfiles&theme=nightowl&hide_border=true" height='170' /> -->
+
 </a>
-</details>
+</details> -->
 
 <details>
-  <summary>🐧 <b><i>EndeavourOS</i></b></summary>
-<img align="left" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png"  width='702.271'/>  
+  <summary>🐧 <b><i>EndeavourOS rice</i></b></summary>
+<img align="center" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png"  width='702.271'/>  
 </details>
 <!-- 
 ![Metrics](https://metrics.lecoq.io/umgbhalla?template=classic&isocalendar=1&introduction=1&languages=1&habits=1&activity=1&projects=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FKolkata)
