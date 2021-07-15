@@ -44,4 +44,4 @@
  
  
  
-<img src="https://github.com/my-github-user/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
