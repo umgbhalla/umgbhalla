@@ -24,7 +24,7 @@
                      ./o.                  umang@r0nus
                    ./sssso-                  os ~ EndeavourOS x86_64
                  `:osssssss+-                sh ~ zsh
-               `:+sssssssssso/.              up ~ 2 hours, 33 mins
+               `:+sssssssssso/.              up ~ 69 hours, 42 mins
              `-/ossssssssssssso/.           bat ~ 53% [Discharging]
            `-/+sssssssssssssssso+:`         res ~ 1920x1080
          `-:/+sssssssssssssssssso+/.        cpu ~ AMD Ryzen 5 4500U (6) @ 2.375GHz
