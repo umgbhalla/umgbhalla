@@ -20,6 +20,9 @@
 <code><a href="https://code.visualstudio.com"> <img  alt="Visual Studio Code" height="26px" src="./media/visual-studio-code.png"/></a></code>
 </p>
 
+<details>
+  <summary>⚙️ <b><i>System info</i></b></summary>
+  
 ```
                      ./o.                  umang@r0nus
                    ./sssso-                  os ~ EndeavourOS x86_64
@@ -38,6 +41,7 @@
   `:::::::::::::::::::::::::------``       
 
 ```
+  </details> 
 
 <!-- <details>
   <summary>⚙️ <b><i>Languages and Tools</i></b></summary>
