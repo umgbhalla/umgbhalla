@@ -10,6 +10,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+              
+      - uses: Platane/snk@master
+        id: snake-gif   
+        with:
+          github_user_name: umgbhalla
+          gif_out_path: dist/github-contribution-grid-snake.gif 
+
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
@@ -44,8 +51,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent.days: 14
           plugin_languages_recent.load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
           plugin_people: yes
@@ -54,7 +59,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
@@ -62,17 +66,4 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
-  snk:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif   
-        with:
-          # github user name to read the contribution graph from (**required**)
-          # using action context var `github.repository_owner` or specified user
-          github_user_name: umgbhalla
-
-          # path of the generated gif file
-          # If left empty, the gif file will not be generated
-          gif_out_path: dist/github-snake.gif
 
