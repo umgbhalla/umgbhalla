@@ -50,7 +50,7 @@
  -->
  
  <details>
-  <summary>⚙️ <b><i>Detailed</i> Profile</b></summary>
+  <summary>❗❗ <b><i>Detailed 🤣</i> Profile</b></summary>
  
 <img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
