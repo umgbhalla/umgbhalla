@@ -59,5 +59,5 @@
 
 
 <p align="center">🐧 <b><i>EndeavourOS rice</i></b></p>
-<img align="center" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png" width='440'  />  
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png" width='440'  />  </p>
 
