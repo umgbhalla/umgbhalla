@@ -50,9 +50,8 @@
  -->
 
 
-<p align="center">🐧 <b><i>EndeavourOS rice</i></b></p>
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png" width='440'  />  </p>
-
+<p align="center">🐧 <b><i>Recent EndeavourOS rice</i></b></p>
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/67634565/128240682-8f33c37c-506d-4e78-87e0-7f4ff21d72f8.png" width='440'  />  </p>
 
  
  <details>
