@@ -50,12 +50,12 @@
  -->
 
 
-<p align="center">🐧 <b><i>Recent EndeavourOS rice</i></b></p>
+<p align="center">🐧 <b><i><a href="https://github.com/umgbhalla/dotstow">Recent EndeavourOS rice</a></i></b></p>
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/67634565/128240682-8f33c37c-506d-4e78-87e0-7f4ff21d72f8.png" width='440'  />  </p>
 
  
  <details>
-  <summary>❗❗ <b><i>Detailed 🤣</i> Profile</b></summary>
+  <summary><p align="center">❗❗ <b><i>Detailed 🤣</i> Profile</b></p></summary>
  
 <img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
