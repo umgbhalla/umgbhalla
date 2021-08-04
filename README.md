@@ -48,6 +48,12 @@
 <!-- 
 ![Metrics](https://metrics.lecoq.io/umgbhalla?template=classic&isocalendar=1&introduction=1&languages=1&habits=1&activity=1&projects=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FKolkata)
  -->
+
+
+<p align="center">🐧 <b><i>EndeavourOS rice</i></b></p>
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png" width='440'  />  </p>
+
+
  
  <details>
   <summary>❗❗ <b><i>Detailed 🤣</i> Profile</b></summary>
@@ -56,8 +62,4 @@
 
  </details>
 
-
-
-<p align="center">🐧 <b><i>EndeavourOS rice</i></b></p>
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/67634565/125189354-4c971780-e255-11eb-910e-063c59fc19f9.png" width='440'  />  </p>
 
