@@ -55,7 +55,7 @@
 
  
  <details>
-  <summary><p align="center">❗❗ <b><i>Detailed 🤣</i> Profile</b></p></summary>
+  <summary><p align="center">❗❗click for <b><i>Detailed 🤣</i> Profile</b></p></summary>
  
 <img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
