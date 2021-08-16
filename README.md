@@ -40,10 +40,10 @@
  
  <details>
   <summary><b>Detailed Profile</b></summary>
-<p align="center"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-  </p>
-<a href="https://github.com/umgbhalla/dotstow">
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/67634565/128240682-8f33c37c-506d-4e78-87e0-7f4ff21d72f8.png" width='440'  />  </p></a>
+   <a href="https://github.com/umgbhalla/dotstow">
+<p align="left"><img src="https://user-images.githubusercontent.com/67634565/128240682-8f33c37c-506d-4e78-87e0-7f4ff21d72f8.png" width='640'/></p></a>
+<p align="leftr"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="640">
+  </p> 
  </details>
 
 
