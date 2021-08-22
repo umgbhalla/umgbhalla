@@ -36,12 +36,11 @@
 ![Metrics](https://metrics.lecoq.io/umgbhalla?template=classic&isocalendar=1&introduction=1&languages=1&habits=1&activity=1&projects=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FKolkata)
  -->
 
-
  
  <details>
   <summary><b>Detailed Profile</b></summary>
    <a href="https://github.com/umgbhalla/dotstow">
-<p align="left"><img src="https://user-images.githubusercontent.com/67634565/128240682-8f33c37c-506d-4e78-87e0-7f4ff21d72f8.png" width='640'/></p></a>
+<p align="left"><img src="https://user-images.githubusercontent.com/67634565/130346655-1e8b8957-54de-4e16-99b4-0495c5d7389e.png" width='640'/></p></a>
 <p align="leftr"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="640">
   </p> 
  </details>
