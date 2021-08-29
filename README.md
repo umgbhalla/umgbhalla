@@ -1,5 +1,5 @@
 
-<p ><img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='200' ></p>
+<img align="left" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='160' >
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
 <details>
    <summary>🔗</summary>
@@ -7,7 +7,7 @@
 <a href="https://twitter.com/umgbhalla"><img alt="Twitter" src="https://img.shields.io/badge/twitter-545454.svg?logo=twitter" /></a>
 <a href="https://github.com/umgbhalla"><img alt="Counter" src="https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge" /></a>
 <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a>
-<hr>
+  
 <code><a href="https://endeavouros.com/"><img alt="EndeavourOS" height="26px" src="https://i1.wp.com/endeavouros.com/wp-content/uploads/2021/03/cropped-cropped-Endeavour-horizontal-black.png" /></a></code>
 <code><a href="https://neovim.io/"><img alt="NeoVim" height="26px" src="./media/Neovim-logo.png" /></a></code>
 <code><a href="https://www.wikiwand.com/en/JavaScript"><img  alt="JS" height="26px" src="./media/js.png" /></a></code>
@@ -19,7 +19,7 @@
 
 <details>
 
-  <summary>GitHub Stats</summary>
+  <summary>Stats</summary>
 
 <img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='200px' />
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,9 +38,9 @@
 
  
  <details>
-  <summary><b>Detailed Profile</b></summary>
+  <summary><b>click for more info</b></summary>
    <a href="https://github.com/umgbhalla/dotstow">
-<p align="left"><img src="https://user-images.githubusercontent.com/67634565/130346655-1e8b8957-54de-4e16-99b4-0495c5d7389e.png" width='640'/></p></a>
+<p align="left"><img src="https://user-images.githubusercontent.com/67634565/131245686-7cdb2433-72c9-4ed9-a0aa-8da7e41100b3.png" width='640'/></p></a>
 <p align="leftr"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="640">
   </p> 
  </details>
