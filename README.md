@@ -14,15 +14,15 @@
 <img  alt="C++" height="56px" src="./media/cpp.png"/>
 <img  alt="C" height="56px" src="./media/c.png"/>
 <img  alt="Python" height="56px" src="./media/python.png"/>
-<img  alt="Java" height="56px" src="./media/java.png"/>
+<img  alt="Figma" height="56px" src="./media/figma.png"/>
 </details>
 <details>
    <summary>Learning</summary>  
-<img  alt="Figma" height="56px" src="./media/figma.png"/>
+<img  alt="Java" height="56px" src="./media/java.png"/>
 <img  alt="JS" height="56px" src="./media/js.png"/>
-<img  alt="Docker" height="56px" src="./media/docker.png"/>
-<img  alt="Flutter" height="56px" src="./media/flutter.png"/>
 <img  alt="Node js" height="56px" src="./media/node.png"/>
+<img  alt="Flutter" height="56px" src="./media/flutter.png"/>
+<img  alt="Docker" height="56px" src="./media/docker.png"/>
 </details>
 
 <details>
