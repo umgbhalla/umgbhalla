@@ -8,7 +8,7 @@
 <a href="https://github.com/umgbhalla"><img alt="Counter" src="https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge" /></a>
 <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a>
 </details>
-<details>
+<details open>
    <summary>Strengths</summary>  
 <img  alt="Shell" height="56px" src="./media/shell.png"/>
 <img  alt="C++" height="56px" src="./media/cpp.png"/>
@@ -16,7 +16,7 @@
 <img  alt="Python" height="56px" src="./media/python.png"/>
 <img  alt="Figma" height="56px" src="./media/figma.png"/>
 </details>
-<details>
+<details open>
    <summary>Learning</summary>  
 <img  alt="Java" height="56px" src="./media/java.png"/>
 <img  alt="JS" height="56px" src="./media/js.png"/>
@@ -25,7 +25,7 @@
 <img  alt="Docker" height="56px" src="./media/docker.png"/>
 </details>
 
-<details>
+<details open>
   <summary>Tools</summary>
 <img  alt="Endeavour OS" height="58px" src="./media/endevour.png"/>
 <img  alt="Alacritty" height="58px" src="./media/alacritty.png"/>
