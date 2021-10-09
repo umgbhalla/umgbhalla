@@ -35,7 +35,7 @@
 </details>
 <details>
   <summary>Stats and more info</summary>
-<img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=0D1117&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" height='200px' />
+<img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=0D1117&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='100%' />
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=umgbhalla&count_private=true&show_icons=true&theme=nightowl&hide_border=true"  height='200px'/>
 </a> -->
@@ -49,8 +49,8 @@
 ![Metrics](https://metrics.lecoq.io/umgbhalla?template=classic&isocalendar=1&introduction=1&languages=1&habits=1&activity=1&projects=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FKolkata)
  -->
    <a href="https://github.com/umgbhalla/dotstow">
-<p align="left"><img src="https://user-images.githubusercontent.com/67634565/131245686-7cdb2433-72c9-4ed9-a0aa-8da7e41100b3.png" width='640'/></p></a>
-<p align="leftr"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="640">
+<p align="left"><img src="https://user-images.githubusercontent.com/67634565/131245686-7cdb2433-72c9-4ed9-a0aa-8da7e41100b3.png" width='100%'/></p></a>
+<p align="leftr"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
   </p> 
  </details>
 
