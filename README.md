@@ -1,4 +1,3 @@
-
 <img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='210' >
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
 <details open>
@@ -24,7 +23,6 @@
 <!-- <img  alt="Flutter" height="56px" src="./media/flutter.png"/> -->
 <img  alt="Docker" height="56px" src="./media/docker.png"/>
 </details>
-
 <details open>
   <summary>Tools</summary>
 <img  alt="Endeavour OS" height="58px" src="./media/endevour.png"/>
@@ -33,6 +31,7 @@
 <img  alt="Raspberry pi" height="58px" src="./media/rbpi.png"/>
 <img  alt="Vscode" height="58px" src="./media/vscode.png"/>
 </details>
+<p align="left"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/isocalendar.svg" alt="isocalendar" width="50%"></p>
 <details>
   <summary>Stats and more info</summary>
 <img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=0D1117&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='100%' />
