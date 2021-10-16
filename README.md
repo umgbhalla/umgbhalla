@@ -2,8 +2,8 @@
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
 <details open>
    <summary>Socials</summary>  
-<a href="https://discord.gg/7phunZcr/"><img alt="Discord" src="https://img.shields.io/badge/Discord-chat-7289da.svg?&logo=discord"/></a>
-<a href="https://twitter.com/umgbhalla"><img alt="Twitter" src="https://img.shields.io/badge/twitter-545454.svg?logo=twitter" /></a>
+<a href="https://twitter.com/intent/follow?&screen_name=umgbhalla"><img alt="Twitter" src="https://img.shields.io/twitter/follow/umgbhalla?&logo=twitter" /></a>
+<a href="https://discord.gg/Gjer4f38dD"><img alt="Discord" src="https://img.shields.io/badge/Discord-chat-7289da.svg?&logo=discord"/></a>
 <a href="https://github.com/umgbhalla"><img alt="Counter" src="https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge" /></a>
 <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a>
 </details>
@@ -52,5 +52,3 @@
 <p align="leftr"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
   </p> 
  </details>
-
-
