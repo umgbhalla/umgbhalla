@@ -3,7 +3,7 @@
 <details open>
    <summary>Socials</summary>  
 <a href="https://twitter.com/intent/follow?&screen_name=umgbhalla"><img alt="Twitter" src="https://img.shields.io/twitter/follow/umgbhalla?&logo=twitter" /></a>
-<a href="https://discord.gg/Gjer4f38dD"><img alt="Discord" src="https://img.shields.io/badge/Discord-chat-7289da.svg?&logo=discord"/></a>
+<a href="https://discord.gg/Gjer4f38dD"><img alt="Discord" src="https://img.shields.io/discord/801057122115911710?color=blue&logo=Discord"/></a>
 <a href="https://github.com/umgbhalla"><img alt="Counter" src="https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge" /></a>
 <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a>
 </details>
