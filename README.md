@@ -2,10 +2,15 @@
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
 <details open>
    <summary>Socials</summary>  
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fumgbhalla%2F"><img alt="github" src="https://img.shields.io/github/followers/umgbhalla?label=umgbhalla&style=social"/></a>
 <a href="https://twitter.com/intent/follow?&screen_name=umgbhalla"><img alt="Twitter" src="https://img.shields.io/twitter/follow/umgbhalla?&logo=twitter" /></a>
-<a href="https://discord.gg/Gjer4f38dD"><img alt="Discord" src="https://img.shields.io/discord/801057122115911710?color=blue&logo=Discord"/></a>
-<a href="https://github.com/umgbhalla"><img alt="Counter" src="https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge" /></a>
-<a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a>
+   
+<a href="https://discord.gg/Gjer4f38dD"><img alt="Discord" src="https://img.shields.io/discord/801057122115911710?color=indigo&logo=Discord&logoColor=blue"/></a>
+<a href="mailto:umg.bhalla88@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-indigo?logo=gmail" /></a>
+<a href="https://www.youtube.com/channel/UClhiSfULj1FgkKS8FLEy3Jw"><img alt="YT" src="https://img.shields.io/badge/Youtube-umangbhalla-indigo?logo=youtube&logoColor=red" /></a>
+<!-- <a href="#"><img alt="Counter" src="https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge"/></a> -->
+<!-- <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a> -->
+<!-- <a href="https://dev.to/umgbhalla"><img alt="dev.to" src="https://img.shields.io/badge/DEV.TO-umgbhalla-black?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&" /></a> -->
 </details>
 <details open>
    <summary>Strengths</summary>  
