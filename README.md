@@ -22,11 +22,13 @@
 </details>
 <details open>
    <summary>Learning</summary>  
-<img  alt="Java" height="56px" src="./media/java.png"/>
-<img  alt="JS" height="56px" src="./media/js.png"/>
-<img  alt="Node js" height="56px" src="./media/node.png"/>
+<img  alt="Rust" height="56px" src="./media/rust.png"/>
+<!-- <img  alt="JS" height="56px" src="./media/js.png"/> -->
+<img  alt="Deno" height="56px" src="./media/deno.png"/>
+<!-- <img  alt="Node js" height="56px" src="./media/node.png"/> -->
 <!-- <img  alt="Flutter" height="56px" src="./media/flutter.png"/> -->
 <img  alt="Docker" height="56px" src="./media/docker.png"/>
+<img  alt="Lua" height="56px" src="./media/lua.png"/>
 </details>
 <details open>
   <summary>Tools</summary>
