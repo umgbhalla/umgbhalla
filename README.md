@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='210' >
+<img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='160' >
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
 <details open>
    <summary>Socials</summary>  
@@ -14,34 +14,34 @@
 </details>
 <details open>
    <summary>Strengths</summary>  
-<img  alt="Shell" height="56px" src="./media/shell.png"/>
-<img  alt="C++" height="56px" src="./media/cpp.png"/>
-<img  alt="C" height="56px" src="./media/c.png"/>
-<img  alt="Python" height="56px" src="./media/python.png"/>
-<img  alt="Figma" height="56px" src="./media/figma.png"/>
+<img  alt="Shell" height="28px" src="./media/shell.png"/>
+<img  alt="C++" height="28px" src="./media/cpp.png"/>
+<img  alt="C" height="28px" src="./media/c.png"/>
+<img  alt="Python" height="28px" src="./media/python.png"/>
+<img  alt="Figma" height="28px" src="./media/figma.png"/>
 </details>
 <details open>
    <summary>Learning</summary>  
-<img  alt="Rust" height="56px" src="./media/rust.png"/>
-<!-- <img  alt="JS" height="56px" src="./media/js.png"/> -->
-<img  alt="Deno" height="56px" src="./media/deno.png"/>
-<!-- <img  alt="Node js" height="56px" src="./media/node.png"/> -->
-<!-- <img  alt="Flutter" height="56px" src="./media/flutter.png"/> -->
-<img  alt="Docker" height="56px" src="./media/docker.png"/>
-<img  alt="Lua" height="56px" src="./media/lua.png"/>
+<img  alt="Rust" height="28px" src="./media/rust.png"/>
+<!-- <img  alt="JS" height="28px" src="./media/js.png"/> -->
+<img  alt="Deno" height="28px" src="./media/deno.png"/>
+<!-- <img  alt="Node js" height="28px" src="./media/node.png"/> -->
+<!-- <img  alt="Flutter" height="28px" src="./media/flutter.png"/> -->
+<img  alt="Docker" height="28px" src="./media/docker.png"/>
+<img  alt="Lua" height="28px" src="./media/lua.png"/>
 </details>
 <details open>
   <summary>Tools</summary>
-<img  alt="Endeavour OS" height="58px" src="./media/endevour.png"/>
-<img  alt="Alacritty" height="58px" src="./media/alacritty.png"/>
-<img  alt="Nvim" height="58px" src="./media/nvim.png"/>
-<img  alt="Raspberry pi" height="58px" src="./media/rbpi.png"/>
-<img  alt="Vscode" height="58px" src="./media/vscode.png"/>
+<img  alt="Endeavour OS" height="28px" src="./media/endevour.png"/>
+<img  alt="Alacritty" height="28px" src="./media/alacritty.png"/>
+<img  alt="Nvim" height="28px" src="./media/nvim.png"/>
+<img  alt="Raspberry pi" height="28px" src="./media/rbpi.png"/>
+<img  alt="Vscode" height="28px" src="./media/vscode.png"/>
 </details>
 <p align="left"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/isocalendar.svg" alt="isocalendar" width="50%"></p>
 <details>
   <summary>Stats and more info</summary>
-<img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=0D1117&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='100%' />
+<img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=0D1117&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='50%' />
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=umgbhalla&count_private=true&show_icons=true&theme=nightowl&hide_border=true"  height='200px'/>
 </a> -->
