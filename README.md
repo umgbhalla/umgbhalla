@@ -9,7 +9,7 @@
 <!-- <a href="#"><img alt="Counter" src="https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge"/></a> -->
 <!-- <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a> -->
 <!-- <a href="https://dev.to/umgbhalla"><img alt="dev.to" src="https://img.shields.io/badge/DEV.TO-umgbhalla-black?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&" /></a> -->
-<h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/901434453497348096.png?size=60 "/>  Proficient </h2>
+<h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64 "/>  Proficient </h2>
 <p><img  alt="Shell" height="28px" src="./media/shell.png"/>
 <img  alt="C++" height="28px" src="./media/cpp.png"/>
 <img  alt="C" height="28px" src="./media/c.png"/>
