@@ -40,7 +40,7 @@
 </details>
 <p align="left"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/isocalendar.svg" alt="isocalendar" width="50%"></p>
 <details>
-  <summary>Stats and more info</summary>
+  <summary>more info</summary>
 <img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=0D1117&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='50%' />
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=umgbhalla&count_private=true&show_icons=true&theme=nightowl&hide_border=true"  height='200px'/>
@@ -59,3 +59,6 @@
 <p align="leftr"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
   </p> 
  </details>
+ <a href="https://github.com/umgbhalla/dotstow">
+  <img alt="@umgbhalla/dotstow" src="https://github-readme-stats.vercel.app/api/pin/?username=umgbhalla&repo=dotstow&theme=github_dark" />
+</a>
