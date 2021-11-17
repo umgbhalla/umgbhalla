@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='160' >
+<img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='200' >
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
 <h5>Socials </h5>
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fumgbhalla%2F"><img alt="github" src="https://img.shields.io/github/followers/umgbhalla?label=umgbhalla&style=social"/></a>
@@ -10,27 +10,27 @@
 <!-- <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a> -->
 <!-- <a href="https://dev.to/umgbhalla"><img alt="dev.to" src="https://img.shields.io/badge/DEV.TO-umgbhalla-black?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&" /></a> -->
 <h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64 "/>  Proficient </h2>
-<p><img  alt="Shell" height="28px" src="./media/shell.png"/>
-<img  alt="C++" height="28px" src="./media/cpp.png"/>
-<img  alt="C" height="28px" src="./media/c.png"/>
-<img  alt="Python" height="28px" src="./media/python.png"/>
-<img  alt="Figma" height="28px" src="./media/figma.png"/>
+<p><img  alt="Shell" height="32px" src="./media/shell.png"/>
+<img  alt="C++" height="32px" src="./media/cpp.png"/>
+<img  alt="C" height="32px" src="./media/c.png"/>
+<img  alt="Python" height="32px" src="./media/python.png"/>
+<img  alt="Figma" height="32px" src="./media/figma.png"/>
  </p>
 <h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/900134038352842772.png"/> Learning  </h2>
-<p><img  alt="Rust" height="28px" src="./media/rust.png"/>
-<!-- <img  alt="JS" height="28px" src="./media/js.png"/> -->
-<img  alt="Deno" height="28px" src="./media/deno.png"/>
-<!-- <img  alt="Node js" height="28px" src="./media/node.png"/> -->
-<!-- <img  alt="Flutter" height="28px" src="./media/flutter.png"/> -->
-<img  alt="Docker" height="28px" src="./media/docker.png"/>
-<img  alt="Lua" height="28px" src="./media/lua.png"/>
+<p><img  alt="Rust" height="32px" src="./media/rust.png"/>
+<!-- <img  alt="JS" height="32px" src="./media/js.png"/> -->
+<img  alt="Deno" height="32px" src="./media/deno.png"/>
+<!-- <img  alt="Node js" height="32px" src="./media/node.png"/> -->
+<!-- <img  alt="Flutter" height="32px" src="./media/flutter.png"/> -->
+<img  alt="Docker" height="32px" src="./media/docker.png"/>
+<img  alt="Lua" height="32px" src="./media/lua.png"/>
 </p>
 <h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/857448621020413961.gif?size=60 "/>  Tools </h2>
-<p><img  alt="Endeavour OS" height="28px" src="./media/endevour.png"/>
-<img  alt="Alacritty" height="28px" src="./media/alacritty.png"/>
-<img  alt="Nvim" height="28px" src="./media/nvim.png"/>
-<img  alt="Raspberry pi" height="28px" src="./media/rbpi.png"/>
-<img  alt="Vscode" height="28px" src="./media/vscode.png"/>
+<p><img  alt="Endeavour OS" height="32px" src="./media/endevour.png"/>
+<img  alt="Alacritty" height="32px" src="./media/alacritty.png"/>
+<img  alt="Nvim" height="32px" src="./media/nvim.png"/>
+<img  alt="Raspberry pi" height="32px" src="./media/rbpi.png"/>
+<img  alt="Vscode" height="32px" src="./media/vscode.png"/>
 </p>
 <p align="left"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/isocalendar.svg" alt="isocalendar" width="50%"></p>
 <details>
