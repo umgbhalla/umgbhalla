@@ -4,7 +4,7 @@
 <!-- <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a> -->
 <!-- <a href="https://dev.to/umgbhalla"><img alt="dev.to" src="https://img.shields.io/badge/DEV.TO-umgbhalla-black?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&" /></a> -->
 <details>
-  <summary>info</summary>
+  <summary><kbd>info</kbd></summary>
 <h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64 "/>  Proficient </h2>
 <p><img  alt="Shell" height="32px" src="./media/shell.png"/>
 <img  alt="C++" height="32px" src="./media/cpp.png"/>
@@ -31,7 +31,7 @@
 <p align="left"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/isocalendar.svg" alt="isocalendar" width="50%"></p>
  </details>
 <details>
- <summary><i>more </i>info</summary>
+ <summary><kbd>more info</kbd></summary>
 <img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=0D1117&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='100%' />
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=umgbhalla&count_private=true&show_icons=true&theme=nightowl&hide_border=true"  height='200px'/>
