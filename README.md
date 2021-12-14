@@ -51,9 +51,9 @@
 <p align="leftr"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/github-metrics.svg" alt="Metrics" width="100%">
   </p> 
  </details>
- <a href="https://github.com/umgbhalla/dotstow">
+<!--  <a href="https://github.com/umgbhalla/dotstow">
   <img alt="@umgbhalla/dotstow" src="https://github-readme-stats.vercel.app/api/pin/?username=umgbhalla&repo=dotstow&theme=github_dark" />
-</a>  
+</a>   -->
 <br>
 <!-- <h5>Socials </h5> -->
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fumgbhalla%2F"><img alt="github" src="https://img.shields.io/github/followers/umgbhalla?label=umgbhalla&style=social"/></a>
