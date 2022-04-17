@@ -4,7 +4,7 @@
 <!-- <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a> -->
 <!-- <a href="https://dev.to/umgbhalla"><img alt="dev.to" src="https://img.shields.io/badge/DEV.TO-umgbhalla-black?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&" /></a> -->
 <details>
-  <summary><kbd>info</kbd></summary>
+  <summary><kbd>????</kbd></summary>
   <img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='200' >
 <h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64 "/>  Proficient </h2>
 <p><img  alt="Shell" height="32px" src="./media/shell.png"/>
@@ -29,7 +29,7 @@
 <img  alt="Raspberry pi" height="32px" src="./media/rbpi.png"/>
 <img  alt="Vscode" height="32px" src="./media/vscode.png"/>
 </p>
-<p align="left"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/isocalendar.svg" alt="isocalendar" width="50%"></p>
+
  </details>
 <details>
  <summary><kbd>some info</kbd></summary>
@@ -58,6 +58,7 @@
 <a href="https://github.com/umgbhalla">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
+  <a href="https://github.com/umgbhalla"><p align="center"><img  width="49%" src="https://github.com/umgbhalla/umgbhalla/blob/main/isocalendar.svg" alt="isocalendar" width="50%"></p></a>
  </details>
 
 
