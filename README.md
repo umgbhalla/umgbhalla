@@ -32,6 +32,36 @@
 <p align="left"><img src="https://github.com/umgbhalla/umgbhalla/blob/main/isocalendar.svg" alt="isocalendar" width="50%"></p>
  </details>
 <details>
+ <summary><kbd>some info</kbd></summary>
+<a href="https://github.com/umgbhalla">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/umgbhalla">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/umgbhalla">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/umgbhalla">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/umgbhalla">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/umgbhalla">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/umgbhalla">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
+ </details>
+
+
+<details>
  <summary><kbd>more info</kbd></summary>
 <img  src="https://activity-graph.herokuapp.com/graph?username=umgbhalla&bg_color=0D1117&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='100%' />
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
