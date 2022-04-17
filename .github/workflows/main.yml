@@ -77,7 +77,7 @@ jobs:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: esatterwhite
+          user: umgbhalla
           base: achievements
           plugin_achievements: yes
           plugin_achievements_threshold: B      # Display achievements with rank B or higher
@@ -97,7 +97,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: esatterwhite
+          user: umgbhalla
           template: classic
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -124,7 +124,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: esatterwhite
+          user: umgbhalla
           template: classic
           base: activity, community
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -141,7 +141,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: esatterwhite
+          user: umgbhalla
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -157,7 +157,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
-          user: esatterwhite
+          user: umgbhalla
           base: ""
           template: classic
           plugin_habits: yes
@@ -178,7 +178,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: esatterwhite
+          user: umgbhalla
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -198,7 +198,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: esatterwhite
+          user: umgbhalla
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
