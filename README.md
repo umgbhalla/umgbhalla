@@ -12,7 +12,7 @@
     :house_with_garden: Currently based in India 🇮🇳<br>
     :school: CS/IT Student from IIIT Bhopal [2024]<br>
     :email:	umg.bhalla88@gmail.com <br>
-    :pencil: CV: <a href="https://umgbhalla.xyz/resume.pdf">View Resume</a> <br>
+    :pencil: CV: <a href="https://hi.umgbhalla.xyz/assets/Resume.pdf">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/umgbhalla/">LinkedIn Profile</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/umgbhalla/">Twitter</a> <br><br><br>
     </samp>
