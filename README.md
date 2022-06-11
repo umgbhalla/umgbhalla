@@ -14,7 +14,8 @@
     :email:	umg.bhalla88@gmail.com <br>
     :pencil: CV: <a href="https://hi.umgbhalla.xyz/assets/Resume.pdf">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/umgbhalla/">LinkedIn Profile</a> <br>
-    :bird: Twitter:  <a href="https://twitter.com/umgbhalla/">Twitter</a> <br><br><br>
+    :bird: Twitter:  <a href="https://twitter.com/umgbhalla/">Twitter</a> <br>
+    🌏 XYZ:  <a href="https://umgbhalla.xyz">xyz</a> <br><br><br>
     </samp>
   <!--<img align='center' src="https://github-readme-stats.vercel.app/api?username=Eoin-McMahon">-->
 </p>
