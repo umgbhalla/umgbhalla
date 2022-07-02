@@ -1,14 +1,15 @@
+<h1 >Hi.</h1>
 
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/67634565/123535664-dcf83700-d742-11eb-84ee-e0663dd167b5.png" width='500'></p> -->
 <!-- <a href="#"><img alt="Counter" src="https://visitor-badge.glitch.me/badge?page_id=umgbhalla.visitor-badge"/></a> -->
 <!-- <a href="https://github.com/umgbhalla"><img alt="GHstars" src="https://img.shields.io/github/stars/umgbhalla?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" /></a> -->
 <!-- <a href="https://dev.to/umgbhalla"><img alt="dev.to" src="https://img.shields.io/badge/DEV.TO-umgbhalla-black?logoColor=fbf1c7&color=fbf1c7&logo=dev.to&" /></a> -->
-<p align="center">
-  <br>
-  <br>
-   
+<br>
+<h4 >$ whoami </h4>
+<p >
+
   <samp>
-    Devops Engineer<br>
+    🧭 Devops Engineer<br>
     :house_with_garden: Currently based in India 🇮🇳<br>
     :school: CS/IT Student from IIIT Bhopal [2024]<br>
     :email:	umg.bhalla88@gmail.com <br>
@@ -17,9 +18,7 @@
     :bird: Twitter:  <a href="https://twitter.com/umgbhalla/">Twitter</a> <br>
     🌏 XYZ:  <a href="https://umgbhalla.xyz">xyz</a> <br><br><br>
     </samp>
-  <!--<img align='center' src="https://github-readme-stats.vercel.app/api?username=Eoin-McMahon">-->
-</p>
-
+</p>  
 <details>
   <summary><kbd>????</kbd></summary>
   <img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='200' >
