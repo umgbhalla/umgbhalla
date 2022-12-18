@@ -19,34 +19,14 @@
     🌏 XYZ:  <a href="https://umgbhalla.xyz">xyz</a> <br><br><br>
     </samp>
 </p>  
-<details>
-  <summary><kbd>????</kbd></summary>
-  <img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='200' >
-<h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64 "/>  Proficient </h2>
-<p><img  alt="Shell" height="32px" src="./media/shell.png"/>
-<img  alt="C++" height="32px" src="./media/cpp.png"/>
-<img  alt="C" height="32px" src="./media/c.png"/>
+<!-- <img align="right" src="https://user-images.githubusercontent.com/67634565/125792404-8feb3087-2884-42c8-9432-024879a9b3fc.gif" width='200' > -->
+<p align="center" >
+<img  alt="huin" height="32px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64"/>
+<img  alt="Shell" height="32px" src="./media/shell.png"/>
 <img  alt="Python" height="32px" src="./media/python.png"/>
-<img  alt="Figma" height="32px" src="./media/figma.png"/>
- </p>
-<h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/900134038352842772.png"/> Learning  </h2>
-<p><img  alt="Rust" height="32px" src="./media/rust.png"/>
-<!-- <img  alt="JS" height="32px" src="./media/js.png"/> -->
-<img  alt="Deno" height="32px" src="./media/deno.png"/>
-<!-- <img  alt="Node js" height="32px" src="./media/node.png"/> -->
-<!-- <img  alt="Flutter" height="32px" src="./media/flutter.png"/> -->
-<img  alt="Docker" height="32px" src="./media/docker.png"/>
-<img  alt="Lua" height="32px" src="./media/lua.png"/>
+<img  alt="Rust" height="32px" src="./media/rust.png"/>
+<img  alt="Nvim" height="32px" src="./media/nvim.png"/></p>
 </p>
-<h2><img  alt="huin" height="24px" src="https://cdn.discordapp.com/emojis/857448621020413961.gif?size=60 "/>  Tools </h2>
-<p><img  alt="Endeavour OS" height="32px" src="./media/endevour.png"/>
-<img  alt="Alacritty" height="32px" src="./media/alacritty.png"/>
-<img  alt="Nvim" height="32px" src="./media/nvim.png"/>
-<img  alt="Raspberry pi" height="32px" src="./media/rbpi.png"/>
-<img  alt="Vscode" height="32px" src="./media/vscode.png"/>
-</p>
-
- </details>
 <details>
  <summary><kbd>some info</kbd></summary>
 <a href="https://github.com/umgbhalla">
