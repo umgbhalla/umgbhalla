@@ -15,7 +15,7 @@
     :email:	umg.bhalla88@gmail.com <br>
     :pencil: CV: <a href="https://rxresu.me/r/LFH4DOmh">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/umgbhalla/">LinkedIn Profile</a> <br>
-    :bird: Twitter:  <a href="https://twitter.com/umgbhalla/">Twitter</a> <br>
+    𝕏 X:  <a href="https://X.com/umgbhalla/">X</a> <br>
     🌏 XYZ:  <a href="https://umgbhalla.xyz">xyz</a> <br><br><br>
     </samp>
 </p>  
