@@ -145,27 +145,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 13.168015969834757%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.195527994487787%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 6.476655206831541%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.490186926274144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 6.380836198292115%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.394167722433376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 3.8363091937451483%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.844324420439644%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 0.26616391260951533%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.26672001066880047%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
