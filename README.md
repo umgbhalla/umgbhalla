@@ -5,8 +5,8 @@
 <p align="left">
 <samp>
 MLops/Devops Engineer<br>
-𝕏 X: <a href="https://x.com/umgbhalla/">X</a> <br>
-XYZ:  <a href="https://umgbhalla.xyz">xyz</a> <br>
+<a href="https://x.com/umgbhalla/">𝕏</a> <br>
+<a href="https://umgbhalla.xyz">xyz</a> <br>
 </samp>
 </p>  
 <details>
