@@ -1,16 +1,16 @@
 
 <br>
-<img  alt="huin" height="32px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64"/>
+<!-- <img  alt="huin" height="32px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64"/> -->
 <!-- <h4> > whoami </h4>  -->
 <p align="left">
 <samp>
-MLops/Devops Engineer<br>
+<!-- MLops/Devops Engineer<br> -->
 <a href="https://x.com/umgbhalla/">𝕏</a> <br>
 <a href="https://umgbhalla.xyz">xyz</a> <br>
 </samp>
 </p>  
 <details>
- <summary><kbd>more info</kbd></summary>
+ <summary><kbd>more ?</kbd></summary>
 <a href="https://github.com/umgbhalla">
   <img align="center" width="49%" src="./header.svg" />
 </a>
